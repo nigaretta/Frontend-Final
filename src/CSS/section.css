@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.section {
+  padding-top: 1rem;
+}
+.section .color-container {
+  display: flex;
+  padding: 3rem 5rem;
+  filter: blur(60px);
+  width: 100%;
+}
+.section .color-container .yellow {
+  border-radius: 50%;
+  background-color: rgb(243, 243, 141);
+  width: 13%;
+  height: 200px;
+  margin-top: 4rem;
+}
+.section .color-container .green {
+  border-radius: 50%;
+  background-color: rgb(138, 207, 138);
+  width: 13%;
+  height: 200px;
+}
+.section .color-container .blue {
+  border-radius: 50%;
+  background-color: rgb(142, 175, 219);
+  width: 13%;
+  height: 200px;
+  margin-top: 4rem;
+}
+.section .color-container .orange {
+  border-radius: 50%;
+  background-color: rgb(224, 190, 125);
+  width: 13%;
+  height: 200px;
+}
+.section .color-container .pink {
+  border-radius: 50%;
+  background-color: rgb(189, 136, 189);
+  width: 13%;
+  height: 200px;
+  margin-top: 4rem;
+}
+.section .section-part .first .color-text {
+  position: absolute;
+  top: 55%;
+  left: 23%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.section .section-part .first .color-text h1 {
+  font-size: 45px;
+}
+.section .section-part .first .color-text p {
+  color: #4F4F4F;
+  padding-top: 1.3rem;
+}
+.section .section-part .first .image {
+  position: absolute;
+  top: 57%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  height: auto;
+}
+.section .section-part .first .image img {
+  width: 350px;
+}
+.section .en-cox-satilan, .section .yeni-mehsullar, .section .aksessuarlar {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 4rem;
+  margin-top: 4rem;
+}
+.section .en-cox-satilan p, .section .en-cox-satilan a, .section .yeni-mehsullar p, .section .yeni-mehsullar a, .section .aksessuarlar p, .section .aksessuarlar a {
+  font-weight: 700;
+}
+.section .en-cox-satilan .hamisina-bax, .section .yeni-mehsullar .hamisina-bax, .section .aksessuarlar .hamisina-bax {
+  display: flex;
+}
+.section .en-cox-satilan .hamisina-bax .angle-icon, .section .yeni-mehsullar .hamisina-bax .angle-icon, .section .aksessuarlar .hamisina-bax .angle-icon {
+  margin-top: 0.2rem;
+}
+.section .en-cox-satilan .hamisina-bax a, .section .yeni-mehsullar .hamisina-bax a, .section .aksessuarlar .hamisina-bax a {
+  color: black;
+  text-decoration: none;
+}
+
+.slick {
+  background-color: #F5F5F7;
+  margin-top: 2rem;
+  padding: 3rem 5.5rem;
+}
+.slick div img {
+  width: 150px;
+}/*# sourceMappingURL=section.css.map */

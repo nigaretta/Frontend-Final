@@ -1,0 +1,17 @@
+[
+    {"id":1,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701446152/box_ffkkst.png",
+        "heading":"Çatdırılma",
+        "lorem":"Lorem ipsum dolor sit amet, consectetur adipiscing elit "
+    },
+    {"id":2,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701446159/card-pos_meelu3.png",
+        "heading":"Kredit",
+        "lorem":"Lorem ipsum dolor sit amet, consectetur adipiscing elit "
+    },
+    {"id":3,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701446170/medal-star_iv578d.png",
+        "heading":"Zəmanət",
+        "lorem":"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    }
+]

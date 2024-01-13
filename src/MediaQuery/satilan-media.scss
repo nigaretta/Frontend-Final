@@ -1,0 +1,1622 @@
+@media (max-width:1200px) {
+    .general {
+
+        .infos,
+        .infos2,
+        .infos3 {
+
+            .box,
+            .box2,
+            .box3 {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 250px;
+                height: 310px;
+                padding: 2rem 2rem;
+
+                img {
+                    width: 136px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 4rem;
+        }
+
+        .ads-container {
+            display: flex;
+            justify-content: space-between;
+            margin: 4rem 4rem;
+
+            .left-card,
+            .right-card {
+                border-radius: 14px;
+                width: 500px;
+                display: flex;
+                height: 230px;
+                padding: 1rem 3rem;
+
+                img {
+                    margin-left: 1.5rem;
+                }
+
+                .text {
+                    margin-top: 1.5rem;
+
+                    p {
+                        color: #9f9d9d;
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            justify-content: space-between;
+            margin: 1rem 4rem;
+
+            .lorem-container {
+                .lorem-box {
+                    text-align: center;
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+
+                    p {
+                        width: 300px;
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+@media (max-width:1100px) {
+    .general {
+
+
+        .infos,
+        .infos2,
+        .infos3 {
+
+            .box,
+            .box2,
+            .box3 {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 230px;
+                height: 310px;
+                padding: 1rem 1.5rem;
+
+                img {
+                    width: 136px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 1.8rem;
+        }
+
+        .ads-container {
+            display: flex;
+            justify-content: space-between;
+            margin: 4rem 0;
+
+            .left-card,
+            .right-card {
+                border-radius: 14px;
+                width: 500px;
+                display: flex;
+                height: 230px;
+                padding: 1rem 3rem;
+
+                img {
+                    margin-left: 1.5rem;
+                }
+
+                .text {
+                    margin-top: 1.5rem;
+
+                    p {
+                        color: #9f9d9d;
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            justify-content: space-between;
+            margin: 1rem 0;
+
+            .lorem-container {
+                .lorem-box {
+                    text-align: center;
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+
+                    p {
+                        width: 300px;
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+@media (max-width:992px) {
+    .general {
+
+
+        .infos,
+        .infos2,
+        .infos3 {
+
+            .box,
+            .box2,
+            .box3 {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 230px;
+                height: 310px;
+                padding: 1rem 1.5rem;
+
+                img {
+                    width: 136px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 1.8rem;
+        }
+
+        .ads-container {
+            display: flex;
+            justify-content: space-between;
+            margin: 4rem 0;
+
+            .left-card,
+            .right-card {
+                border-radius: 14px;
+                width: 500px;
+                display: flex;
+                height: 230px;
+                padding: 1rem 3rem;
+
+                img {
+                    margin-left: 1.5rem;
+                }
+
+                .text {
+                    margin-top: 1.5rem;
+
+                    p {
+                        color: #9f9d9d;
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            justify-content: space-between;
+            margin: 1rem 0;
+
+            .lorem-container {
+                .lorem-box {
+                    text-align: center;
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+
+                    p {
+                        width: 300px;
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+@media (max-width:960px) {
+    .general {
+
+
+        .infos,
+        .infos2,
+        .infos3 {
+
+            .box,
+            .box2,
+            .box3 {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 230px;
+                height: 310px;
+                padding: 1rem 1.5rem;
+                margin-left: 1rem;
+
+                img {
+                    width: 136px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 2.5rem;
+        }
+
+        .ads-container {
+            display: flex;
+            justify-content: space-between;
+            margin: 4rem 3rem;
+
+            .left-card,
+            .right-card {
+                border-radius: 14px;
+                width: 390px;
+                display: flex;
+                height: 230px;
+                padding: 1rem 3rem;
+
+                img {
+                    width: 100px;
+                    margin-left: 1.5rem;
+                    margin-top: 3rem;
+                }
+
+                .text {
+                    margin-top: 1.5rem;
+
+                    p {
+                        color: #9f9d9d;
+
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                        font-size: 14px;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                img {
+                    width: 84px;
+                }
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            justify-content: space-between;
+            margin: 1rem 0;
+
+
+            .lorem-container {
+                .lorem-box {
+                    text-align: center;
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+
+                    p {
+                        width: 300px;
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+@media (max-width:890px) {
+    .general {
+
+
+        .infos,
+        .infos2,
+        .infos3 {
+
+
+            .box,
+            .box2,
+            .box3 {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 230px;
+                height: 310px;
+                padding: 1rem 1.5rem;
+                margin-left: 1rem;
+
+                img {
+                    width: 136px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 2.5rem;
+        }
+
+        .ads-container {
+            display: flex;
+            justify-content: space-between;
+            margin: 4rem 2rem;
+
+            .left-card,
+            .right-card {
+                border-radius: 14px;
+                width: 380px;
+                display: flex;
+                height: 220px;
+                padding: 1rem 3rem;
+
+                img {
+                    width: 100px;
+                    margin-left: 1rem;
+                    margin-top: 3rem;
+                }
+
+                .text {
+                    margin-top: 0.5rem;
+
+                    p {
+                        color: #9f9d9d;
+
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                        font-size: 14px;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                img {
+                    width: 84px;
+                }
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            justify-content: space-between;
+            margin:1rem 2.5rem;
+            
+            
+
+            .lorem-container {
+                .lorem-box {
+                    text-align: center;
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+                    p {
+                        width:200px;
+                    }
+
+                    
+                }
+            }
+        }
+
+    }
+}
+
+@media (max-width:780px) {
+    .general {
+
+
+        .infos,
+        .infos2,
+        .infos3,
+        .infos5 {
+
+
+            .box,
+            .box2,
+            .box3,
+            .box5 {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 210px;
+                height: 280px;
+                padding: 1.5rem 1.8rem;
+                margin-left: 1rem;
+
+                img {
+                    width: 110px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                    font-size: 14px;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                    font-size: 14px;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 2.5rem;
+        }
+
+        .ads-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            .left-card,
+            .right-card {
+                border-radius: 14px;
+                width: 600px;
+                display: flex;
+                height: 240px;
+                padding: 2.5rem 2rem;
+
+                img {
+                    width: 150px;
+                    margin-left: 3rem;
+                    margin-top: 0;
+                }
+
+                .text {
+                    margin-top: 0.5rem;
+                    margin-left: 2rem;
+
+                    p {
+                        color: #9f9d9d;
+
+                    }
+
+                    h3 {
+                        font-size: 16px;
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                        font-size: 14px;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+
+
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                img {
+                    width: 110px;
+                    margin-left: 11rem;
+                }
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            
+            
+            justify-content: space-between;
+            margin:1rem 2rem;
+
+            .lorem-container {
+
+                .lorem-box {
+                    text-align: center;
+
+                    img {
+                        width: 60px;
+                    }
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+
+                    p {
+                        width: 150px;
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+@media (max-width:679px) {
+    .general {
+
+
+        .infos,
+        .infos2,
+        .infos3,
+        .infos5 {
+
+
+            .box,
+            .box2,
+            .box3,
+            .box5 {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 210px;
+                height: 280px;
+                padding: 1.5rem 1.8rem;
+                margin-left: 1rem;
+
+                img {
+                    width: 110px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                    font-size: 14px;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                    font-size: 14px;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 1rem;
+        }
+
+        .ads-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            .left-card,
+            .right-card {
+                border-radius: 14px;
+                width: 600px;
+                display: flex;
+                height: 240px;
+                padding: 2.5rem 2rem;
+
+                img {
+                    width: 150px;
+                    margin-left: 3rem;
+                    margin-top: 0;
+                }
+
+                .text {
+                    margin-top: 0.5rem;
+                    margin-left: 2rem;
+
+                    p {
+                        color: #9f9d9d;
+
+                    }
+
+                    h3 {
+                        font-size: 16px;
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                        font-size: 14px;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+                margin-top: 1rem;
+
+
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                img {
+                    width: 110px;
+                    margin-left: 11rem;
+                }
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            width: 50%;
+            margin: auto;
+
+            .lorem-container {
+
+
+                .lorem-box {
+                    margin-top:1.5rem;
+
+
+
+                    img {
+                        width: 80px;
+                    }
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+
+                    p {
+                        width: 350px;
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+@media (max-width:600px) {
+    .general {
+
+
+        .infos,
+        .infos2,
+        .infos3,
+        .infos5 {
+
+
+            .box,
+            .box2,
+            .box3,
+            .box5 {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 210px;
+                height: 280px;
+                padding: 1.5rem 1.8rem;
+                margin-left: 1rem;
+
+                img {
+                    width: 110px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                    font-size: 14px;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                    font-size: 14px;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 1rem;
+        }
+
+        .ads-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            .left-card,
+            .right-card {
+                border-radius: 14px;
+                width: 520px;
+                display: flex;
+                height: 230px;
+                padding: 2.5rem 1.3rem;
+
+                img {
+                    width: 150px;
+                    margin-left: 3rem;
+                    margin-top: 0;
+                }
+
+                .text {
+                    margin-top: 0.5rem;
+                    margin-left: 2rem;
+
+                    p {
+                        color: #9f9d9d;
+
+                    }
+
+                    h3 {
+                        font-size: 16px;
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                        font-size: 14px;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+                margin-top: 1rem;
+
+
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                img {
+                    width: 110px;
+                    margin-left: 6rem;
+                }
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            width: 50%;
+            margin: auto;
+
+            .lorem-container {
+
+
+                .lorem-box {
+                    margin-top:1.5rem;
+
+
+
+                    img {
+                        width: 80px;
+                    }
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+
+                    p {
+                        width: 350px;
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+@media (max-width:504px) {
+    .general {
+
+
+        .infos,
+        .infos2,
+        .infos3
+        {
+
+
+            .box,
+            .box2,
+            .box3
+             {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 210px;
+                height: 280px;
+                padding: 1.5rem 1.8rem;
+                margin-left: 1rem;
+
+                img {
+                    width: 110px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                    font-size: 14px;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                    font-size: 14px;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 1rem;
+        }
+
+        .ads-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            .left-card,
+            .right-card {
+
+                border-radius: 14px;
+                width: 400px;
+                display: flex;
+                height: 220px;
+                padding: 2.5rem 1rem;
+
+                img {
+                    width: 150px;
+                    margin-left: 1rem;
+                    margin-top: 0;
+                }
+
+                .text {
+                    margin-top: 0.5rem;
+                    margin-left: 2rem;
+
+                    p {
+                        color: #9f9d9d;
+
+                    }
+
+                    h3 {
+                        font-size: 16px;
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                        font-size: 14px;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+                margin-top: 1rem;
+
+
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                img {
+                    width: 110px;
+
+                }
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            width: 50%;
+            margin: auto;
+
+            .lorem-container {
+
+
+                .lorem-box {
+                    margin-top:1.5rem;
+
+
+
+                    img {
+                        width: 80px;
+                    }
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+
+                    p {
+                        width: 350px;
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+
+    }
+
+}
+
+@media (max-width:430px) {
+    .general {
+
+
+        .infos,
+        .infos2,
+        .infos3,
+        .infos5 {
+
+
+            .box,
+            .box2,
+            .box3,
+            .box5 {
+                border: 1px solid rgb(234, 232, 232);
+                box-shadow: 1px 1px 7px rgb(204, 201, 201);
+                width: 210px;
+                height: 280px;
+                padding: 1.5rem 1.8rem;
+                margin-left: 1rem;
+
+                img {
+                    width: 110px;
+                    margin-left: 1.3rem;
+                }
+
+                p {
+                    margin-top: 0.8rem;
+                    font-size: 14px;
+                }
+
+                h4 {
+                    margin-top: 0.5rem;
+                    font-size: 14px;
+                }
+
+                .qiymet {
+                    display: flex;
+
+                    .price {
+                        color: #828282;
+                        font-size: 14px;
+                        text-decoration: line-through;
+                    }
+
+                    .sale {
+                        padding-left: 10px;
+                        color: #DB2C66;
+                    }
+                }
+
+            }
+
+            display:flex;
+            justify-content: space-between;
+            margin:1rem 1rem;
+        }
+
+        .ads-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+
+            .left-card,
+            .right-card {
+
+                border-radius: 14px;
+                width: 550px;
+                display: flex;
+                height: 200px;
+                padding: 1rem 0;
+
+                img {
+                    width: 150px;
+                    margin-left: 1rem;
+                    margin-top: 0;
+                }
+
+                .text {
+                    margin-top: 0.5rem;
+                    margin-left: 2rem;
+
+                    p {
+                        color: #9f9d9d;
+
+                    }
+
+                    h3 {
+                        font-size: 16px;
+                    }
+
+                    h5 {
+                        margin-top: 0.5rem;
+                        font-size: 14px;
+                    }
+                }
+            }
+
+            .right-card {
+                background-color: #c9c7c741;
+                text-align: center;
+                margin-top: 2.5rem;
+
+
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #c9c7c741;
+                    margin-top: 1rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #fff;
+                }
+
+            }
+
+            .left-card {
+                img {
+                    width: 110px;
+
+                }
+
+                button {
+                    border-radius: 16px;
+                    width: 100px;
+                    height: 32px;
+                    border: 1px solid rgb(177, 176, 176);
+                    background-color: #fff;
+                    margin-top: 0.5rem;
+                }
+
+                button:hover {
+                    cursor: pointer;
+                    background-color: #c9c7c741;
+                }
+            }
+        }
+
+        .infos4 {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            width: 50%;
+            margin: auto;
+
+            .lorem-container {
+
+
+                .lorem-box {
+                    margin-top:1.5rem;
+
+
+
+                    img {
+                        width: 80px;
+                    }
+
+                    h4,
+                    p {
+                        padding-top: 1rem;
+                    }
+
+                    p {
+                        width: 350px;
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+
+    }
+}

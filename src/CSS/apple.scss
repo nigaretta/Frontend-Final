@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.ads-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 4rem;
+
+    .left-card,
+    .right-card {
+        border-radius: 14px;
+        width: 500px;
+        display: flex;
+        height: 230px;
+        padding: 1rem 3rem;
+
+        img {
+            margin-left: 1.5rem;
+        }
+
+        .text {
+            margin-top: 1.5rem;
+
+            p {
+                color: #9f9d9d;
+            }
+
+            h5 {
+                margin-top: 0.5rem;
+            }
+        }
+    }
+
+    .right-card {
+        background-color: #c9c7c741;
+        text-align: center;
+
+        button {
+            border-radius: 16px;
+            width: 100px;
+            height: 32px;
+            border: 1px solid rgb(177, 176, 176);
+            background-color: #c9c7c741;
+            margin-top: 1rem;
+        }
+
+    }
+
+    .left-card {
+        button {
+            border-radius: 16px;
+            width: 100px;
+            height: 32px;
+            border: 1px solid rgb(177, 176, 176);
+            background-color: #fff;
+            margin-top: 0.5rem;
+        }
+    }
+}
+.infos5 {
+    display:flex;
+    justify-content: space-between;
+    padding:1rem 4rem;
+}
+.general {
+        .box5 {
+            border: 1px solid rgb(234, 232, 232);
+            box-shadow: 1px 1px 7px rgb(204, 201, 201);
+            width: 250px;
+            height: 310px;
+            padding: 2rem 1.5rem;
+
+            img {
+                width: 136px;
+                margin-left: 1.7rem;
+            }
+
+            p {
+                margin-top: 0.8rem;
+            }
+            h4 {
+                margin-top:1rem;
+            }
+
+            .qiymet {
+                display: flex;
+
+                .price {
+                    color: #828282;
+                    font-size: 14px;
+                    text-decoration: line-through;
+                }
+
+                .sale {
+                    padding-left: 10px;
+                    color: #DB2C66;
+                }
+            }
+
+        }
+        
+   
+   
+}

@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.ads-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 4rem 4rem;
+}
+.ads-container .left-card,
+.ads-container .right-card {
+  border-radius: 14px;
+  width: 500px;
+  display: flex;
+  height: 230px;
+  padding: 1rem 3rem;
+}
+.ads-container .left-card img,
+.ads-container .right-card img {
+  margin-left: 1.5rem;
+}
+.ads-container .left-card .text,
+.ads-container .right-card .text {
+  margin-top: 1.5rem;
+}
+.ads-container .left-card .text p,
+.ads-container .right-card .text p {
+  color: #9f9d9d;
+}
+.ads-container .left-card .text h5,
+.ads-container .right-card .text h5 {
+  margin-top: 0.5rem;
+}
+.ads-container .right-card {
+  background-color: rgba(201, 199, 199, 0.2549019608);
+  text-align: center;
+}
+.ads-container .right-card button {
+  border-radius: 16px;
+  width: 100px;
+  height: 32px;
+  border: 1px solid rgb(177, 176, 176);
+  background-color: rgba(201, 199, 199, 0.2549019608);
+  margin-top: 1rem;
+}
+.ads-container .left-card button {
+  border-radius: 16px;
+  width: 100px;
+  height: 32px;
+  border: 1px solid rgb(177, 176, 176);
+  background-color: #fff;
+  margin-top: 0.5rem;
+}
+
+.infos5 {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 4rem;
+}
+
+.general .box5 {
+  border: 1px solid rgb(234, 232, 232);
+  box-shadow: 1px 1px 7px rgb(204, 201, 201);
+  width: 250px;
+  height: 310px;
+  padding: 2rem 1.5rem;
+}
+.general .box5 img {
+  width: 136px;
+  margin-left: 1.7rem;
+}
+.general .box5 p {
+  margin-top: 0.8rem;
+}
+.general .box5 h4 {
+  margin-top: 1rem;
+}
+.general .box5 .qiymet {
+  display: flex;
+}
+.general .box5 .qiymet .price {
+  color: #828282;
+  font-size: 14px;
+  text-decoration: line-through;
+}
+.general .box5 .qiymet .sale {
+  padding-left: 10px;
+  color: #DB2C66;
+}/*# sourceMappingURL=apple.css.map */

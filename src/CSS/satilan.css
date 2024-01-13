@@ -1,0 +1,169 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.general .infos,
+.general .infos2,
+.general .infos3 {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 4rem;
+}
+.general .infos .box,
+.general .infos .box2,
+.general .infos .box3,
+.general .infos2 .box,
+.general .infos2 .box2,
+.general .infos2 .box3,
+.general .infos3 .box,
+.general .infos3 .box2,
+.general .infos3 .box3 {
+  border: 1px solid rgb(234, 232, 232);
+  box-shadow: 1px 1px 7px rgb(204, 201, 201);
+  width: 250px;
+  height: 310px;
+  padding: 2rem 2rem;
+}
+.general .infos .box img,
+.general .infos .box2 img,
+.general .infos .box3 img,
+.general .infos2 .box img,
+.general .infos2 .box2 img,
+.general .infos2 .box3 img,
+.general .infos3 .box img,
+.general .infos3 .box2 img,
+.general .infos3 .box3 img {
+  width: 136px;
+  margin-left: 1.3rem;
+}
+.general .infos .box p,
+.general .infos .box2 p,
+.general .infos .box3 p,
+.general .infos2 .box p,
+.general .infos2 .box2 p,
+.general .infos2 .box3 p,
+.general .infos3 .box p,
+.general .infos3 .box2 p,
+.general .infos3 .box3 p {
+  margin-top: 0.8rem;
+}
+.general .infos .box h4,
+.general .infos .box2 h4,
+.general .infos .box3 h4,
+.general .infos2 .box h4,
+.general .infos2 .box2 h4,
+.general .infos2 .box3 h4,
+.general .infos3 .box h4,
+.general .infos3 .box2 h4,
+.general .infos3 .box3 h4 {
+  margin-top: 0.5rem;
+}
+.general .infos .box .qiymet,
+.general .infos .box2 .qiymet,
+.general .infos .box3 .qiymet,
+.general .infos2 .box .qiymet,
+.general .infos2 .box2 .qiymet,
+.general .infos2 .box3 .qiymet,
+.general .infos3 .box .qiymet,
+.general .infos3 .box2 .qiymet,
+.general .infos3 .box3 .qiymet {
+  display: flex;
+}
+.general .infos .box .qiymet .price,
+.general .infos .box2 .qiymet .price,
+.general .infos .box3 .qiymet .price,
+.general .infos2 .box .qiymet .price,
+.general .infos2 .box2 .qiymet .price,
+.general .infos2 .box3 .qiymet .price,
+.general .infos3 .box .qiymet .price,
+.general .infos3 .box2 .qiymet .price,
+.general .infos3 .box3 .qiymet .price {
+  color: #828282;
+  font-size: 14px;
+  text-decoration: line-through;
+}
+.general .infos .box .qiymet .sale,
+.general .infos .box2 .qiymet .sale,
+.general .infos .box3 .qiymet .sale,
+.general .infos2 .box .qiymet .sale,
+.general .infos2 .box2 .qiymet .sale,
+.general .infos2 .box3 .qiymet .sale,
+.general .infos3 .box .qiymet .sale,
+.general .infos3 .box2 .qiymet .sale,
+.general .infos3 .box3 .qiymet .sale {
+  padding-left: 10px;
+  color: #DB2C66;
+}
+.general .ads-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 4rem 4rem;
+}
+.general .ads-container .left-card,
+.general .ads-container .right-card {
+  border-radius: 14px;
+  width: 500px;
+  display: flex;
+  height: 230px;
+  padding: 1rem 3rem;
+}
+.general .ads-container .left-card img,
+.general .ads-container .right-card img {
+  margin-left: 1.5rem;
+}
+.general .ads-container .left-card .text,
+.general .ads-container .right-card .text {
+  margin-top: 1.5rem;
+}
+.general .ads-container .left-card .text p,
+.general .ads-container .right-card .text p {
+  color: #9f9d9d;
+}
+.general .ads-container .left-card .text h5,
+.general .ads-container .right-card .text h5 {
+  margin-top: 0.5rem;
+}
+.general .ads-container .right-card {
+  background-color: rgba(201, 199, 199, 0.2549019608);
+  text-align: center;
+}
+.general .ads-container .right-card button {
+  border-radius: 16px;
+  width: 100px;
+  height: 32px;
+  border: 1px solid rgb(177, 176, 176);
+  background-color: rgba(201, 199, 199, 0.2549019608);
+  margin-top: 1rem;
+}
+.general .ads-container .right-card button:hover {
+  cursor: pointer;
+  background-color: #fff;
+}
+.general .ads-container .left-card button {
+  border-radius: 16px;
+  width: 100px;
+  height: 32px;
+  border: 1px solid rgb(177, 176, 176);
+  background-color: #fff;
+  margin-top: 0.5rem;
+}
+.general .ads-container .left-card button:hover {
+  cursor: pointer;
+  background-color: rgba(201, 199, 199, 0.2549019608);
+}
+.general .infos4 {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 4rem;
+}
+.general .infos4 .lorem-container .lorem-box {
+  text-align: center;
+}
+.general .infos4 .lorem-container .lorem-box h4,
+.general .infos4 .lorem-container .lorem-box p {
+  padding-top: 1rem;
+}
+.general .infos4 .lorem-container .lorem-box p {
+  width: 300px;
+}/*# sourceMappingURL=satilan.css.map */

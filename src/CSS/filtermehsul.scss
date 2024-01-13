@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.filter-container {
+    padding: 1rem 4rem;
+
+    .govde {
+        display: flex;
+        justify-content: space-between;
+
+        
+
+
+
+
+            .filters {
+                margin-top: 2.5rem;
+
+                .above {
+                    display: flex;
+                    justify-content: space-between;
+                    border-bottom: 1px solid #BDBDBD;
+
+                    p {
+                        color: #4F4F4F;
+                        font-size: 14px;
+                    }
+                }
+
+                .checkbox-brends {
+                    margin-top: 1.2rem;
+
+                    form {
+                        color: #4F4F4F;
+                        font-size: 14px;
+
+
+                        input[type=checkbox] {
+                            width: 15px;
+                            height: 15px;
+                            appearance: none;
+                            background-color: #00D68F29;
+                            border: 1px solid #2DD06E;
+                        }
+
+                        input:checked {
+                            background-color: #2DD06E;
+                        }
+
+                        input:checked::before {
+                            content: '\2713';
+                            /* Unicode character for checkmark */
+                            color: white;
+                        }
+
+                    }
+                }
+
+                .features {
+
+                    .features-parts {
+                        display: flex;
+                        justify-content: space-between;
+                        padding-top: 1.7rem;
+                        border-bottom: 1px solid #BDBDBD;
+
+                        p {
+                            font-weight: 500;
+                            color: #4F4F4F;
+                            font-size: 14px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .phone-data {
+            margin-top: 3.6rem;
+            width: 80%;
+
+            .selection {
+                p {
+                    color: #333333;
+                    font-weight: 500;
+                    font-size: 14px;
+                    padding-left: 7rem;
+                }
+
+                display:flex;
+                justify-content: space-between;
+
+
+
+            }
+
+            #mehsul-secimi {
+                height: 30px;
+                border: 1px solid #BDBDBD;
+                border-radius: 8px;
+                color: #4F4F4F;
+                font-size: 13px;
+            }
+
+        }
+    }
+
+
+
+.general-brend {
+    margin-top: 1.5rem;
+    padding: 1rem 0.5rem;
+
+    .brend-container {
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        .brend-box {
+            border: 1px solid rgb(234, 232, 232);
+            box-shadow: 1px 1px 7px rgb(204, 201, 201);
+            width: 250px;
+            height: 310px;
+            padding: 0 1.2rem;
+
+            img {
+                width: 136px;
+                margin-top: 1.5rem;
+                margin-left: 1.5rem;
+            }
+
+            p {
+                margin-top: 1.2rem;
+
+            }
+
+            h4 {
+                margin-top: 1rem;
+                margin-left: 1rem;
+            }
+
+            .qiymet {
+                display: flex;
+
+                .price {
+                    font-size: 14px;
+                    text-decoration: line-through;
+                    margin-left: 1rem;
+                    color: grey;
+                }
+
+                .sale {
+                    padding-left: 7px;
+                    color: #DB2C66;
+                }
+            }
+
+
+        }
+
+
+    }
+}
+
+.infos6 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 120%;
+    padding: 0 7rem;
+}
+
+.links {
+    .filter-icon {
+        color: #4F4F4F;
+
+    }
+
+    a {
+        text-decoration: none;
+        color: #000;
+        font-size: 14px;
+        padding: 5px;
+    }
+
+    .apple {
+        color: #828282;
+    }
+}
+
+.sira-filter {
+    display: none;
+}

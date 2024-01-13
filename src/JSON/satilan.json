@@ -1,0 +1,32 @@
+[
+    {"id":1,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339174/Rectangle_158_psus7g.png",
+        "name":"Apple  iPhone 12, 64 GB,",
+        "color":"Purple",
+        "price":"3012₼",
+        "sale":"2089₼"
+    },
+
+    {"id":2,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339388/Rectangle_160_i6hegk.png",
+        "name":"Nokia X10, 64 GB,",
+        "color":"Deep Green",
+        "ozprice":"1360₼"
+    },
+
+    {"id":3,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339230/Rectangle_158_4_qqu9yq.png",
+        "name":"Xiaomi Poco M3 4/128Gb ",
+        "color":"Yellow (Global)",
+        "price":"429.0₼",
+        "sale":"389.0₼"
+    },
+
+    {"id":4,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339197/Rectangle_158_2_sckwcy.png",
+        "name":"Realme 8 Pro 6/128Gb,",
+        "color":"Black",
+        "price":"699.0₼",
+        "sale":"649.0₼"
+    }
+]

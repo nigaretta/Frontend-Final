@@ -1,0 +1,22 @@
+[
+    {"id":1,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345786/Rectangle_160_1_la0vml.png",
+        "name":"iPhone 13 Pro Max 1 TB Sierra Blue",
+        "price":"4669₼"
+    },
+    {"id":2,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345879/Rectangle_160_4_wicttb.png",
+        "name":"iPhone 13 256 GB Midnight",
+        "price":"2629₼"
+    },
+    {"id":3,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345792/Rectangle_160_2_m93lsl.png",
+        "name":"Honor 10 128 GB Midnight Black",
+        "price":"799.9₼"
+    },
+    {"id":4,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345798/Rectangle_160_3_muappl.png",
+        "name":"Samsung Galaxy Z Fold3 (SM-F926) Green",
+        "price":"4199₼"
+    }
+]

@@ -1,0 +1,236 @@
+@media (max-width:1200px){
+    .faq-general {
+        margin-top:1rem;
+        padding:1rem 4rem;
+        .faq-links {
+            a {
+                text-decoration: none;
+                color:#4F4F4F;
+                font-size: 14px;
+            }
+            .faq-link {
+                color:#828282;
+            }
+        }
+        .faq-boxes {
+            h3 {
+                text-align: center;
+                margin-top:3rem;
+            }
+            .faq{
+                
+                .faq-cards{
+                    display: flex;
+                    justify-content: space-between;
+                    cursor: pointer;
+                }
+                    margin:1rem 15rem;
+                    background-color: #F1F1F1;
+                    border-radius: 8px;
+                    padding:1rem 2.5rem;
+                    p {
+                        font-weight: 500;
+                        font-size: 14px;
+                    }
+                    .answer {
+                        padding:1.3rem 1.5rem;
+                    }
+                   
+            }
+        }
+    }
+}
+
+@media (max-width:1100px){
+    .faq-general {
+        margin-top:1rem;
+        padding:1rem 4rem;
+        .faq-links {
+            a {
+                text-decoration: none;
+                color:#4F4F4F;
+                font-size: 14px;
+            }
+            .faq-link {
+                color:#828282;
+            }
+        }
+        .faq-boxes {
+            h3 {
+                text-align: center;
+                margin-top:3rem;
+            }
+            .faq{
+                
+                .faq-cards{
+                    display: flex;
+                    justify-content: space-between;
+                    cursor: pointer;
+                }
+                    margin:1rem 8rem;
+                    background-color: #F1F1F1;
+                    border-radius: 8px;
+                    padding:1rem 2.5rem;
+                    p {
+                        font-weight: 500;
+                        font-size: 14px;
+                    }
+                    .answer {
+                        padding:1.3rem 1.5rem;
+                    }
+                   
+            }
+        }
+    }
+}
+
+@media (max-width:960px){
+    .faq-general {
+        margin-top:1rem;
+        padding:1rem 2rem;
+        .faq-links {
+            a {
+                text-decoration: none;
+                color:#4F4F4F;
+                font-size: 14px;
+            }
+            .faq-link {
+                color:#828282;
+            }
+        }
+        .faq-boxes {
+            h3 {
+                text-align: center;
+                margin-top:3rem;
+            }
+            .faq{
+                
+                .faq-cards{
+                    display: flex;
+                    justify-content: space-between;
+                    cursor: pointer;
+                }
+                    margin:1rem 5rem;
+                    background-color: #F1F1F1;
+                    border-radius: 8px;
+                    padding:1rem 2.5rem;
+                    p {
+                        font-weight: 500;
+                        font-size: 14px;
+                    }
+                    .answer {
+                        padding:1.3rem 1.5rem;
+                    }
+                   
+            }
+        }
+    }
+}
+
+@media (max-width:830px){
+    .faq-general {
+        
+        padding:1rem 2rem;
+        .faq-links {
+          display:none;
+        }
+        .faq-boxes {
+            h3 {
+                text-align: center;
+               
+            }
+            .faq{
+                
+                .faq-cards{
+                    display: flex;
+                    justify-content: space-between;
+                    cursor: pointer;
+                }
+                    margin:1rem 2.5rem;
+                    background-color: #F1F1F1;
+                    border-radius: 8px;
+                    padding:1rem 2rem;
+                    p {
+                        font-weight: 500;
+                        font-size: 14px;
+                    }
+                    .answer {
+                        padding:1.3rem 1.5rem;
+                    }
+                   
+            }
+        }
+    }
+}
+
+@media (max-width:740px){
+    .faq-general {
+        
+        padding:1rem 1rem;
+        .faq-links {
+          display:none;
+        }
+        .faq-boxes {
+            h3 {
+                text-align: center;
+               
+            }
+            .faq{
+                
+                .faq-cards{
+                    display: flex;
+                    justify-content: space-between;
+                    cursor: pointer;
+                }
+                    margin:1rem 2rem;
+                    background-color: #F1F1F1;
+                    border-radius: 8px;
+                    padding:1rem 2rem;
+                    p {
+                        font-weight: 500;
+                        font-size: 14px;
+                    }
+                    .answer {
+                        padding:1.3rem 1.5rem;
+                    }
+                   
+            }
+        }
+    }
+}
+
+@media (max-width:570px){
+    .faq-general {
+        
+        padding:1rem 0.5rem;
+        .faq-links {
+          display:none;
+        }
+        .faq-boxes {
+            h3 {
+                text-align: center;
+               
+            }
+            .faq{
+                
+                .faq-cards{
+                    display: flex;
+                    justify-content: space-between;
+                    cursor: pointer;
+                }
+                    margin:1rem 1rem;
+                    background-color: #F1F1F1;
+                    border-radius: 8px;
+                    padding:1rem 2rem;
+                    p {
+                        font-weight: 500;
+                        font-size: 14px;
+                    }
+                    .answer {
+                        padding:1.3rem 1.5rem;
+                    }
+                   
+            }
+        }
+    }
+}

@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.section {
+    padding-top:1rem;
+    .color-container {
+        display: flex;
+        padding: 3rem 5rem;
+        filter: blur(60px);
+        width: 100%;
+
+        .yellow {
+            border-radius: 50%;
+            background-color: rgb(243, 243, 141);
+            width: 13%;
+            height: 200px;
+            margin-top: 4rem;
+        }
+
+        .green {
+            border-radius: 50%;
+            background-color: rgb(138, 207, 138);
+            width: 13%;
+            height: 200px;
+        }
+
+        .blue {
+            border-radius: 50%;
+            background-color: rgb(142, 175, 219);
+            width: 13%;
+            height: 200px;
+            margin-top: 4rem;
+        }
+
+        .orange {
+            border-radius: 50%;
+            background-color: rgb(224, 190, 125);
+            width: 13%;
+            height: 200px;
+        }
+
+        .pink {
+            border-radius: 50%;
+            background-color: rgb(189, 136, 189);
+            width: 13%;
+            height: 200px;
+            margin-top: 4rem;
+        }
+
+
+    }
+
+    .section-part {
+
+        .first {
+            
+            .color-text {
+                
+                position: absolute;
+                top: 55%;
+                left: 23%;
+                transform: translate(-50%, -50%);
+                z-index: 2;
+
+                h1 {
+                    font-size: 45px;
+                }
+
+                p {
+                    color: #4F4F4F;
+                    padding-top: 1.3rem;
+                }
+            }
+
+            .image {
+                position: absolute;
+                top: 57%;
+                left: 70%;
+                transform: translate(-50%, -50%);
+                z-index: 2;
+                height: auto;
+                
+
+                img {
+                    width: 350px;
+
+                }
+            }
+        }
+    }
+
+    .en-cox-satilan,.yeni-mehsullar,.aksessuarlar {
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem 4rem;
+        margin-top:4rem;
+
+        p,a {
+            font-weight: 700;
+        }
+        .hamisina-bax {
+            display:flex;
+            .angle-icon {
+                margin-top:0.2rem;
+            }
+            a {
+                color: black;
+                text-decoration: none;
+                
+            }
+
+        }
+    }
+
+    
+}
+
+.slick {
+    background-color: #F5F5F7;
+    margin-top: 2rem;
+    padding: 3rem 5.5rem;
+
+    div {
+        img {
+            width: 150px;
+        }
+    }
+}

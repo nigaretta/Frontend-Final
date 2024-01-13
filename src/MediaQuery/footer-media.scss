@@ -1,0 +1,307 @@
+@media (max-width:740px) {
+    footer {
+
+        background-color: #262626;
+
+        hr {
+            border: 1px solid rgb(57, 57, 57);
+        }
+
+        .footer {
+            padding: 2rem 1.2rem;
+            display: flex;
+            justify-content: space-between;
+
+
+            .logo-icon {
+                img {
+                    width: 90px;
+                }
+
+                .icon {
+                    color: white;
+
+                    .social-icon {
+                        margin-top: 0.7rem;
+                        margin-left: 17px;
+                    }
+                }
+            }
+
+            .menu,
+            .contact {
+
+                .righticon {
+                    color: white;
+                }
+
+                span {
+                    color: #2DD06E;
+                }
+
+                p {
+                    color: white;
+                }
+
+                a {
+                    display: block;
+                    text-decoration: none;
+                    color: white;
+                    font-size: 13px;
+                }
+            }
+
+            .menu {
+                a {
+                    padding-top: 1.2rem;
+                }
+            }
+
+            .contact {
+                .right {
+                    display: flex;
+                    margin-top: 1.2rem;
+
+                    a {
+                        padding-left: 0.6rem;
+                    }
+                }
+            }
+        }
+
+        .last-part {
+            display: flex;
+            justify-content: space-between;
+            padding: 1rem 4rem;
+
+            p {
+                color: #fff;
+                font-size: 14px;
+            }
+
+            .right {
+                display: flex;
+
+                p {
+                    padding-left: 30px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width:650px) {
+    footer {
+        margin-top:3rem;
+
+
+        background-color: #262626;
+
+        hr {
+            border: 1px solid rgb(57, 57, 57);
+        }
+
+        .footer {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            width: 37%;
+            text-align: center;
+            margin: auto;
+
+
+
+
+            .logo-icon {
+                img {
+                    width: 90px;
+                }
+
+                .icon {
+                    color: white;
+
+                    .social-icon {
+                        margin-top: 0.7rem;
+                        margin-left: 17px;
+                    }
+                }
+            }
+
+            .menu,
+            .contact {
+                margin-top:2.8rem;
+
+                .righticon {
+                    color: white;
+                }
+
+                span {
+                    color: #2DD06E;
+                }
+
+                p {
+                    color: white;
+                }
+
+                a {
+                    display: block;
+                    text-decoration: none;
+                    color: white;
+                    font-size: 14px;
+                }
+            }
+
+            .menu {
+                a {
+                    padding-top: 1.2rem;
+                }
+            }
+
+            .contact {
+                .right {
+                    display: flex;
+                    margin-top: 1.2rem;
+                    text-align: left;
+
+                    a {
+                        padding-left: 0.2rem;
+                        width:200px;
+                    }
+                }
+            }
+        }
+
+        .last-part {
+            display: flex;
+           flex-wrap: wrap-reverse;
+           margin: auto;
+           justify-content: center;
+
+            p {
+                color: #fff;
+                font-size: 14px;
+            }
+
+            .left {
+                display: flex;
+                margin-left:2rem;
+                margin-top:1rem;
+            }
+
+            .right {
+                display: flex;
+
+               
+            }
+        }
+    }
+}
+
+@media (max-width:557px) {
+    footer {
+        margin-top:3rem;
+        background-color: #262626;
+
+        hr {
+            border: 1px solid rgb(57, 57, 57);
+        }
+
+        .footer {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            width: 45%;
+            text-align: center;
+            margin: auto;
+
+
+
+
+            .logo-icon {
+                img {
+                    width: 90px;
+                }
+
+                .icon {
+                    color: white;
+
+                    .social-icon {
+                        margin-top: 0.7rem;
+                        margin-left: 17px;
+                    }
+                }
+            }
+
+            .menu,
+            .contact {
+                margin-top:2.8rem;
+
+                .righticon {
+                    color: white;
+                }
+
+                span {
+                    color: #2DD06E;
+                }
+
+                p {
+                    color: white;
+                }
+
+                a {
+                    display: block;
+                    text-decoration: none;
+                    color: white;
+                    font-size: 14px;
+                }
+            }
+
+            .menu {
+                a {
+                    padding-top: 1.2rem;
+                }
+            }
+
+            .contact {
+                .right {
+                    display: flex;
+                    margin-top: 1.2rem;
+                    text-align: left;
+
+                    a {
+                        padding-left: 0.2rem;
+                        width:200px;
+                    }
+                }
+            }
+        }
+
+        .last-part {
+            display: flex;
+           flex-wrap: wrap-reverse;
+           width: 100%;
+           
+
+            p {
+                color: #fff;
+                font-size: 14px;
+            }
+
+            .left {
+                display: flex;
+                margin-top:1rem;
+                
+                p{
+                    width:300px;
+                }
+            }
+
+            .right {
+                display: flex;
+                p {
+                    width:170px;
+                }
+            }
+        }
+    }
+}

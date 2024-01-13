@@ -1,0 +1,26 @@
+[
+    {"id":1,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339174/Rectangle_158_psus7g.png",
+        "name":"Apple  iPhone 12, 64 GB, Bənövşəyi",
+        "price":"3012₼",
+        "sale":"2089₼"
+    },
+    {"id":2,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339174/Rectangle_158_psus7g.png",
+        "name":"Apple  iPhone 12, 64 GB, Bənövşəyi",
+        "ozprice":"2089₼"
+        
+    },
+    {"id":3,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339174/Rectangle_158_psus7g.png",
+        "name":"Apple  iPhone 12, 64 GB, Bənövşəyi",
+        "price":"3012₼",
+        "sale":"2089₼"
+    },
+    {"id":4,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339174/Rectangle_158_psus7g.png",
+        "name":"Apple  iPhone 12, 64 GB, Bənövşəyi",
+        "price":"3012₼",
+        "sale":"2089₼"
+    }
+]

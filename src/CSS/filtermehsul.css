@@ -1,0 +1,147 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.filter-container {
+  padding: 1rem 4rem;
+}
+.filter-container .govde {
+  display: flex;
+  justify-content: space-between;
+}
+.filter-container .govde .filters {
+  margin-top: 2.5rem;
+}
+.filter-container .govde .filters .above {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #BDBDBD;
+}
+.filter-container .govde .filters .above p {
+  color: #4F4F4F;
+  font-size: 14px;
+}
+.filter-container .govde .filters .checkbox-brends {
+  margin-top: 1.2rem;
+}
+.filter-container .govde .filters .checkbox-brends form {
+  color: #4F4F4F;
+  font-size: 14px;
+}
+.filter-container .govde .filters .checkbox-brends form input[type=checkbox] {
+  width: 15px;
+  height: 15px;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: rgba(0, 214, 143, 0.1607843137);
+  border: 1px solid #2DD06E;
+}
+.filter-container .govde .filters .checkbox-brends form input:checked {
+  background-color: #2DD06E;
+}
+.filter-container .govde .filters .checkbox-brends form input:checked::before {
+  content: "✓";
+  /* Unicode character for checkmark */
+  color: white;
+}
+.filter-container .govde .filters .features .features-parts {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1.7rem;
+  border-bottom: 1px solid #BDBDBD;
+}
+.filter-container .govde .filters .features .features-parts p {
+  font-weight: 500;
+  color: #4F4F4F;
+  font-size: 14px;
+}
+.filter-container .phone-data {
+  margin-top: 3.6rem;
+  width: 80%;
+}
+.filter-container .phone-data .selection {
+  display: flex;
+  justify-content: space-between;
+}
+.filter-container .phone-data .selection p {
+  color: #333333;
+  font-weight: 500;
+  font-size: 14px;
+  padding-left: 7rem;
+}
+.filter-container .phone-data #mehsul-secimi {
+  height: 30px;
+  border: 1px solid #BDBDBD;
+  border-radius: 8px;
+  color: #4F4F4F;
+  font-size: 13px;
+}
+
+.general-brend {
+  margin-top: 1.5rem;
+  padding: 1rem 0.5rem;
+}
+.general-brend .brend-container a {
+  text-decoration: none;
+  color: black;
+}
+.general-brend .brend-container .brend-box {
+  border: 1px solid rgb(234, 232, 232);
+  box-shadow: 1px 1px 7px rgb(204, 201, 201);
+  width: 250px;
+  height: 310px;
+  padding: 0 1.2rem;
+}
+.general-brend .brend-container .brend-box img {
+  width: 136px;
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;
+}
+.general-brend .brend-container .brend-box p {
+  margin-top: 1.2rem;
+}
+.general-brend .brend-container .brend-box h4 {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+.general-brend .brend-container .brend-box .qiymet {
+  display: flex;
+}
+.general-brend .brend-container .brend-box .qiymet .price {
+  font-size: 14px;
+  text-decoration: line-through;
+  margin-left: 1rem;
+  color: grey;
+}
+.general-brend .brend-container .brend-box .qiymet .sale {
+  padding-left: 7px;
+  color: #DB2C66;
+}
+
+.infos6 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 120%;
+  padding: 0 7rem;
+}
+
+.links .filter-icon {
+  color: #4F4F4F;
+}
+.links a {
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+  padding: 5px;
+}
+.links .apple {
+  color: #828282;
+}
+
+.sira-filter {
+  display: none;
+}/*# sourceMappingURL=filtermehsul.css.map */

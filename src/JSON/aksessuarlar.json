@@ -1,0 +1,22 @@
+[
+    {"id":1,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701366804/Rectangle_160_5_ukdy0a.png",
+        "name":"Apple Iphone MagSafe to USB-C Cable",
+        "price":"89.99₼"
+    },
+    {"id":2,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701366811/Rectangle_160_6_snz7vr.png",
+        "name":"Apple Air Tag Leather Loop  Red",
+        "price":"109.9₼"
+    },
+    {"id":3,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701366818/Rectangle_160_7_t8cgtk.png",
+        "name":"Apple AirPods Max Green",
+        "price":"1279₼"
+    },
+    {"id":4,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701366824/Rectangle_160_8_ziou8u.png",
+        "name":"Apple AirPods Pro with Wireless Charging Case",
+        "price":"549.9₼"
+    }
+]

@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.general-photo .photo-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 4rem 4rem;
+}
+.general-photo .photo-container .text {
+  padding: 3rem 2rem;
+}
+.general-photo .photo-container .text p {
+  padding-top: 1rem;
+  color: #303030;
+}
+.general-photo .photo-container .text a {
+  text-decoration: none;
+  color: #3366FF;
+}
+.general-photo .photo-container .text .angle-icon {
+  margin-top: 1rem;
+  color: #3366FF;
+}
+.general-photo .photo-container .photo-left {
+  background: rgb(235, 189, 189);
+  background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+  width: 500px;
+  height: 560px;
+  border-radius: 12px;
+}
+.general-photo .photo-container .photo-left img {
+  width: 440px;
+  margin-left: 3.7rem;
+  margin-top: 2.3rem;
+}
+.general-photo .photo-container .photo-box,
+.general-photo .photo-container .photo-box2 {
+  display: flex;
+  justify-content: space-between;
+  background: rgb(235, 189, 189);
+  background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+  border-radius: 12px;
+  width: 500px;
+  height: 270px;
+}
+.general-photo .photo-container .photo-box .photo2,
+.general-photo .photo-container .photo-box2 .photo2 {
+  width: 180px;
+  margin-top: 5rem;
+  margin-right: 3rem;
+}
+.general-photo .photo-container .photo-box .photo3,
+.general-photo .photo-container .photo-box2 .photo3 {
+  width: 225px;
+  margin-top: 5rem;
+  margin-right: 3rem;
+}
+.general-photo .photo-container .photo-box2 {
+  margin-top: 20px;
+}/*# sourceMappingURL=photo.css.map */

@@ -1,0 +1,643 @@
+@media (max-width: 1200px) {
+  .general-photo .photo-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 4rem;
+  }
+  .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 500px;
+    height: 560px;
+    border-radius: 12px;
+  }
+  .general-photo .photo-container .photo-left img {
+    width: 440px;
+    margin-left: 3.7rem;
+    margin-top: 2.3rem;
+  }
+  .general-photo .photo-container .photo-box,
+  .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 500px;
+    height: 270px;
+  }
+  .general-photo .photo-container .photo-box .photo2,
+  .general-photo .photo-container .photo-box2 .photo2 {
+    width: 180px;
+    margin-top: 5rem;
+    margin-right: 3rem;
+  }
+  .general-photo .photo-container .photo-box .photo3,
+  .general-photo .photo-container .photo-box2 .photo3 {
+    width: 225px;
+    margin-top: 5rem;
+    margin-right: 3rem;
+  }
+  .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 1100px) {
+  .general-photo .photo-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 1.8rem;
+  }
+  .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 440px;
+    height: 510px;
+    border-radius: 12px;
+  }
+  .general-photo .photo-container .photo-left img {
+    width: 390px;
+    margin-left: 3.1rem;
+    margin-top: 1.4rem;
+  }
+  .general-photo .photo-container .photo-box,
+  .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 440px;
+    height: 245px;
+  }
+  .general-photo .photo-container .photo-box .photo2,
+  .general-photo .photo-container .photo-box2 .photo2 {
+    width: 155px;
+    margin-top: 5rem;
+    margin-right: 3rem;
+  }
+  .general-photo .photo-container .photo-box .photo3,
+  .general-photo .photo-container .photo-box2 .photo3 {
+    width: 196px;
+    margin-top: 5rem;
+    margin-right: 2.5rem;
+  }
+  .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 960px) {
+  .general-photo .photo-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 2rem;
+  }
+  .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 380px;
+    height: 480px;
+    border-radius: 12px;
+  }
+  .general-photo .photo-container .photo-left img {
+    width: 330px;
+    margin-left: 3.1rem;
+    margin-top: 2.4rem;
+  }
+  .general-photo .photo-container .photo-box,
+  .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 380px;
+    height: 230px;
+  }
+  .general-photo .photo-container .photo-box .photo2,
+  .general-photo .photo-container .photo-box2 .photo2 {
+    width: 142px;
+    margin-top: 5rem;
+    margin-right: 2rem;
+  }
+  .general-photo .photo-container .photo-box .photo3,
+  .general-photo .photo-container .photo-box2 .photo3 {
+    width: 170px;
+    margin-top: 5.4rem;
+    margin-right: 0;
+  }
+  .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 890px) {
+  .general-photo .photo-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 2rem;
+  }
+  .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 380px;
+    height: 480px;
+    border-radius: 12px;
+  }
+  .general-photo .photo-container .photo-left img {
+    width: 330px;
+    margin-left: 3.1rem;
+    margin-top: 2.4rem;
+  }
+  .general-photo .photo-container .photo-box,
+  .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 380px;
+    height: 230px;
+  }
+  .general-photo .photo-container .photo-box .photo2,
+  .general-photo .photo-container .photo-box2 .photo2 {
+    width: 142px;
+    margin-top: 5rem;
+    margin-right: 2rem;
+  }
+  .general-photo .photo-container .photo-box .photo3,
+  .general-photo .photo-container .photo-box2 .photo3 {
+    width: 170px;
+    margin-top: 5.4rem;
+    margin-right: 0;
+  }
+  .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 840px) {
+  .general-photo .photo-container {
+    display: flex;
+    justify-content: center;
+    margin: 4rem 2rem;
+  }
+  .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 350px;
+    height: 460px;
+    border-radius: 12px;
+  }
+  .general-photo .photo-container .photo-left img {
+    width: 300px;
+    margin-left: 3.1rem;
+    margin-top: 2.5rem;
+  }
+  .general-photo .photo-container .photo-box,
+  .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 350px;
+    height: 220px;
+  }
+  .general-photo .photo-container .photo-box .photo2,
+  .general-photo .photo-container .photo-box2 .photo2 {
+    width: 130px;
+    margin-top: 5rem;
+    margin-right: 1rem;
+  }
+  .general-photo .photo-container .photo-box .photo3,
+  .general-photo .photo-container .photo-box2 .photo3 {
+    width: 145px;
+    margin-top: 6rem;
+    margin-right: 0;
+  }
+  .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 780px) {
+  .general-photo .photo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 600px;
+    height: 500px;
+    border-radius: 12px;
+  }
+  .general-photo .photo-container .photo-left img {
+    width: 400px;
+    margin-left: 12.5rem;
+    margin-top: 0.4rem;
+  }
+  .general-photo .photo-container .photo-box,
+  .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 600px;
+    height: 250px;
+    margin-top: 1rem;
+  }
+  .general-photo .photo-container .photo-box .photo2,
+  .general-photo .photo-container .photo-box2 .photo2 {
+    width: 170px;
+    margin-top: 4.3rem;
+    margin-right: 1rem;
+  }
+  .general-photo .photo-container .photo-box .photo3,
+  .general-photo .photo-container .photo-box2 .photo3 {
+    width: 195px;
+    margin-top: 5.3rem;
+    margin-right: 0;
+  }
+  .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 740px) {
+  .general .general-photo .photo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .general .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 600px;
+    height: 550px;
+    border-radius: 12px;
+  }
+  .general .general-photo .photo-container .photo-left img {
+    width: 400px;
+    margin-left: 12.5rem;
+    margin-top: 3.5rem;
+  }
+  .general .general-photo .photo-container .photo-box,
+  .general .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 600px;
+    height: 250px;
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-box .photo2,
+  .general .general-photo .photo-container .photo-box2 .photo2 {
+    width: 170px;
+    margin-top: 4.3rem;
+    margin-right: 1rem;
+  }
+  .general .general-photo .photo-container .photo-box .photo3,
+  .general .general-photo .photo-container .photo-box2 .photo3 {
+    width: 195px;
+    margin-top: 5.3rem;
+    margin-right: 0;
+  }
+  .general .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 640px) {
+  .general .general-photo .photo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .general .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 500px;
+    height: 570px;
+    border-radius: 12px;
+  }
+  .general .general-photo .photo-container .photo-left img {
+    width: 350px;
+    margin-left: 8rem;
+    margin-top: 7rem;
+  }
+  .general .general-photo .photo-container .photo-box,
+  .general .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: center;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 500px;
+    height: 250px;
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-box .photo2,
+  .general .general-photo .photo-container .photo-box2 .photo2 {
+    width: 150px;
+    margin-top: 5.8rem;
+    margin-right: 0;
+  }
+  .general .general-photo .photo-container .photo-box .photo3,
+  .general .general-photo .photo-container .photo-box2 .photo3 {
+    width: 165px;
+    margin-top: 6.8rem;
+    margin-right: 0;
+  }
+  .general .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 520px) {
+  .general .general-photo .photo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .general .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 450px;
+    height: 570px;
+    border-radius: 12px;
+  }
+  .general .general-photo .photo-container .photo-left img {
+    width: 350px;
+    margin-left: 6rem;
+    margin-top: 7rem;
+  }
+  .general .general-photo .photo-container .photo-box,
+  .general .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: center;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 450px;
+    height: 250px;
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-box .photo2,
+  .general .general-photo .photo-container .photo-box2 .photo2 {
+    width: 170px;
+    margin-top: 4.3rem;
+    margin-right: 1rem;
+  }
+  .general .general-photo .photo-container .photo-box .photo3,
+  .general .general-photo .photo-container .photo-box2 .photo3 {
+    width: 195px;
+    margin-top: 5.3rem;
+    margin-right: 0;
+  }
+  .general .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 480px) {
+  .general .general-photo .photo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .general .general-photo .photo-container .text {
+    padding: 3rem 2rem;
+  }
+  .general .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 390px;
+    height: 570px;
+    border-radius: 12px;
+  }
+  .general .general-photo .photo-container .photo-left img {
+    width: 350px;
+    margin-left: 2rem;
+    margin-top: 7rem;
+  }
+  .general .general-photo .photo-container .photo-box,
+  .general .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: center;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 390px;
+    height: 230px;
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-box .photo2,
+  .general .general-photo .photo-container .photo-box2 .photo2 {
+    width: 140px;
+    margin-top: 5rem;
+    margin-right: 0;
+  }
+  .general .general-photo .photo-container .photo-box .photo3,
+  .general .general-photo .photo-container .photo-box2 .photo3 {
+    width: 165px;
+    margin-top: 5.8rem;
+    margin-right: 0;
+  }
+  .general .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 420px) {
+  .general .general-photo .photo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .general .general-photo .photo-container .text {
+    padding: 3rem 1rem;
+  }
+  .general .general-photo .photo-container .text p {
+    padding-top: 1rem;
+    color: #303030;
+  }
+  .general .general-photo .photo-container .text a {
+    text-decoration: none;
+    color: #3366FF;
+  }
+  .general .general-photo .photo-container .text a .angle-icon {
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-left {
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    width: 370px;
+    height: 520px;
+    border-radius: 12px;
+  }
+  .general .general-photo .photo-container .photo-left img {
+    width: 300px;
+    margin-top: 6.3rem;
+  }
+  .general .general-photo .photo-container .photo-box,
+  .general .general-photo .photo-container .photo-box2 {
+    display: flex;
+    justify-content: center;
+    background: rgb(235, 189, 189);
+    background: linear-gradient(163deg, rgb(231, 223, 223) 0%, rgb(242, 242, 242) 99%);
+    border-radius: 12px;
+    width: 330px;
+    height: 220px;
+    margin-top: 1rem;
+  }
+  .general .general-photo .photo-container .photo-box .photo2,
+  .general .general-photo .photo-container .photo-box2 .photo2 {
+    width: 120px;
+    margin-top: 5.8rem;
+    margin-right: 0;
+  }
+  .general .general-photo .photo-container .photo-box .photo3,
+  .general .general-photo .photo-container .photo-box2 .photo3 {
+    width: 130px;
+    margin-top: 7rem;
+    margin-right: 0;
+  }
+  .general .general-photo .photo-container .photo-box2 {
+    margin-top: 20px;
+  }
+}/*# sourceMappingURL=photo-media.css.map */

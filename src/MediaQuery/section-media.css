@@ -1,0 +1,1080 @@
+@media (max-width: 1200px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    padding: 3rem 5rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    position: absolute;
+    top: 55%;
+    left: 23%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    font-size: 45px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 57%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    height: auto;
+  }
+  .section .section-part .first .image img {
+    width: 350px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 4rem;
+    margin-top: 4rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    background-color: #F5F5F7;
+    margin-top: 2rem;
+    padding: 3rem 5.5rem;
+  }
+  .slick div img {
+    width: 150px;
+  }
+}
+@media (max-width: 1100px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    padding: 3rem 5rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    position: absolute;
+    top: 55%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    font-size: 45px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 57%;
+    left: 74%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    height: auto;
+  }
+  .section .section-part .first .image img {
+    width: 350px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 1.8rem;
+    margin-top: 4rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    background-color: #F5F5F7;
+    margin-top: 2rem;
+    padding: 3rem 5.5rem;
+  }
+  .slick div img {
+    width: 150px;
+  }
+}
+@media (max-width: 992px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    padding: 3rem 7rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    position: absolute;
+    top: 55%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    font-size: 45px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 57%;
+    left: 74%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    height: auto;
+  }
+  .section .section-part .first .image img {
+    width: 350px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 1.8rem;
+    margin-top: 4rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    background-color: #F5F5F7;
+    margin-top: 2rem;
+    padding: 3rem 5.5rem;
+  }
+  .slick div img {
+    width: 150px;
+  }
+}
+@media (max-width: 960px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    padding: 3rem 7rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    position: absolute;
+    top: 55%;
+    left: 32.5%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    font-size: 45px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 57%;
+    left: 77%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    height: auto;
+  }
+  .section .section-part .first .image img {
+    width: 330px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 3.5rem;
+    margin-top: 4rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    background-color: #F5F5F7;
+    margin-top: 2rem;
+    padding: 3rem 2rem;
+  }
+  .slick div img {
+    width: 150px;
+  }
+}
+@media (max-width: 890px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    margin-left: 8rem;
+    margin-top: 5rem;
+    padding: 4rem 4rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    top: 105%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    text-align: center;
+    font-size: 45px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+    width: 450px;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .image img {
+    max-width: 330px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 3.5rem;
+    margin-top: 8rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    background-color: #F5F5F7;
+    margin-top: 2rem;
+    padding: 3rem 0;
+  }
+  .slick div img {
+    width: 150px;
+  }
+}
+@media (max-width: 840px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    margin-left: 8rem;
+    margin-top: 5rem;
+    padding: 4rem 4rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    top: 89%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    text-align: center;
+    font-size: 45px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+    width: 450px;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .image img {
+    max-width: 330px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 3.5rem;
+    margin-top: 5rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    background-color: #F5F5F7;
+    margin-top: 2rem;
+    padding: 3rem 0;
+  }
+  .slick div img {
+    width: 150px;
+  }
+}
+@media (max-width: 780px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    margin-left: 8rem;
+    margin-top: 5rem;
+    padding: 4rem 4rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+    width: 450px;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .image img {
+    max-width: 320px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 3.5rem;
+    margin-top: 4rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    background-color: #F5F5F7;
+    margin-top: 2rem;
+    padding: 2rem 0;
+  }
+  .slick div img {
+    width: 130px;
+  }
+}
+@media (max-width: 683px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    margin-left: 8rem;
+    margin-top: 5rem;
+    padding: 4rem 4rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+    width: 450px;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .image img {
+    max-width: 300px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 2rem;
+    margin-top: 4rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    background-color: #F5F5F7;
+    margin-top: 2rem;
+    padding: 2rem 0;
+  }
+  .slick div img {
+    width: 120px;
+  }
+}
+@media (max-width: 660px) {
+  .slick {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    margin-left: 8rem;
+    margin-top: 5rem;
+    padding: 4rem 4rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    text-align: center;
+    font-size: 37px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+    width: 450px;
+    font-size: 15px;
+    text-align: center;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .image img {
+    max-width: 250px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 2rem;
+    margin-top: 1.5rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    display: none;
+  }
+}
+@media (max-width: 450px) {
+  body {
+    overflow-x: hidden;
+  }
+  .section {
+    padding-top: 1rem;
+  }
+  .section .color-container {
+    display: flex;
+    margin-left: 8rem;
+    margin-top: 5rem;
+    padding: 4rem 4rem;
+    filter: blur(60px);
+    width: 100%;
+  }
+  .section .color-container .yellow {
+    border-radius: 50%;
+    background-color: rgb(243, 243, 141);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .green {
+    border-radius: 50%;
+    background-color: rgb(138, 207, 138);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .blue {
+    border-radius: 50%;
+    background-color: rgb(142, 175, 219);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .color-container .orange {
+    border-radius: 50%;
+    background-color: rgb(224, 190, 125);
+    width: 13%;
+    height: 200px;
+  }
+  .section .color-container .pink {
+    border-radius: 50%;
+    background-color: rgb(189, 136, 189);
+    width: 13%;
+    height: 200px;
+    margin-top: 4rem;
+  }
+  .section .section-part .first .color-text {
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .color-text h1 {
+    text-align: center;
+    font-size: 34px;
+  }
+  .section .section-part .first .color-text p {
+    color: #4F4F4F;
+    padding-top: 1.3rem;
+    width: 300px;
+    font-size: 14px;
+  }
+  .section .section-part .first .image {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .section .section-part .first .image img {
+    max-width: 250px;
+  }
+  .section .en-cox-satilan,
+  .section .yeni-mehsullar,
+  .section .aksessuarlar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 2rem;
+    margin-top: 1.5rem;
+  }
+  .section .en-cox-satilan p,
+  .section .en-cox-satilan a,
+  .section .yeni-mehsullar p,
+  .section .yeni-mehsullar a,
+  .section .aksessuarlar p,
+  .section .aksessuarlar a {
+    font-weight: 700;
+  }
+  .section .en-cox-satilan .hamisina-bax,
+  .section .yeni-mehsullar .hamisina-bax,
+  .section .aksessuarlar .hamisina-bax {
+    display: flex;
+  }
+  .section .en-cox-satilan .hamisina-bax a,
+  .section .yeni-mehsullar .hamisina-bax a,
+  .section .aksessuarlar .hamisina-bax a {
+    color: black;
+    text-decoration: none;
+  }
+  .slick {
+    display: none;
+  }
+}/*# sourceMappingURL=section-media.css.map */

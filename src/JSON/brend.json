@@ -1,0 +1,82 @@
+[
+    {"id":1,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339174/Rectangle_158_psus7g.png",
+        "name":"Apple  iPhone 12, 64 GB, Bənövşəyi",
+        "ozprice":"2089₼"
+    },
+    {"id":2,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345792/Rectangle_160_2_m93lsl.png",
+        "name":"Honor 10 128 GB Midnight Black",
+        "ozprice":"799.9₼"
+    },
+    {"id":3,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345798/Rectangle_160_3_muappl.png",
+        "name":"Samsung Galaxy Z Fold3 (SM-F926) Green",
+        "ozprice":"4199₼"
+    },
+    {"id":4,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339388/Rectangle_160_i6hegk.png",
+        "name":"Nokia X10, 64 GB,Deep Green",
+        "ozprice":"1360₼"
+    },
+    {"id":5,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339230/Rectangle_158_4_qqu9yq.png",
+        "name":"Xiaomi Poco M3 4/128Gb,Yellow (Global) ",
+        "price":"429.0₼",
+        "sale":"389.0₼"
+    },
+    {"id":6,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339197/Rectangle_158_2_sckwcy.png",
+        "name":"Realme 8 Pro 6/128Gb,Black",
+        "price":"699.0₼",
+        "sale":"649.0₼"
+    },
+    {"id":7,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345786/Rectangle_160_1_la0vml.png",
+        "name":"iPhone 13 Pro Max 1 TB Sierra Blue",
+        "ozprice":"4669₼"
+    },
+    {"id":8,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345879/Rectangle_160_4_wicttb.png",
+        "name":"iPhone 13 256 GB Midnight",
+        "ozprice":"2629₼"
+    },
+    {"id":9,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345792/Rectangle_160_2_m93lsl.png",
+        "name":"Honor 10 128 GB Midnight Black",
+        "ozprice":"799.9₼"
+    },
+    {"id":10,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339174/Rectangle_158_psus7g.png",
+        "name":"Apple  iPhone 12, 64 GB, Bənövşəyi",
+        "ozprice":"2089₼"
+    },
+    {"id":11,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345792/Rectangle_160_2_m93lsl.png",
+        "name":"Honor 10 128 GB Midnight Black",
+        "ozprice":"799.9₼"
+    },
+    {"id":12,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701345798/Rectangle_160_3_muappl.png",
+        "name":"Samsung Galaxy Z Fold3 (SM-F926) Green",
+        "ozprice":"4199₼"
+    },
+    {"id":13,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339388/Rectangle_160_i6hegk.png",
+        "name":"Nokia X10, 64 GB,Deep Green",
+        "ozprice":"1360₼"
+    },
+    {"id":14,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339230/Rectangle_158_4_qqu9yq.png",
+        "name":"Xiaomi Poco M3 4/128Gb,Yellow (Global) ",
+        "price":"429.0₼",
+        "sale":"389.0₼"
+    },
+    {"id":15,
+        "image":"https://res.cloudinary.com/deyzt1ysj/image/upload/v1701339197/Rectangle_158_2_sckwcy.png",
+        "name":"Realme 8 Pro 6/128Gb,Black",
+        "price":"699.0₼",
+        "sale":"649.0₼"
+    }
+
+]

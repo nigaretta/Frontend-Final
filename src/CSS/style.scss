@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Flow+Circular&family=Open+Sans&family=Poppins:ital,wght@0,300;0,400;0,700;1,600&family=Roboto:ital,wght@0,300;0,400;1,400&family=Sora&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans';
+}
+
+
+.nav {
+    header {
+        .head {
+            display: flex;
+            justify-content: space-between;
+            margin: 1.5rem 4rem;
+            .hamburger {
+                display: none;
+            }
+
+            .logo-part {
+
+                img {
+                    width: 90px;
+                }
+
+            }
+
+            .search {
+                background-color: #F2F2F2;
+                height: 35px;
+                padding-left: 1rem;
+                border-radius: 9px;
+
+                .search-icon {
+                    color: grey;
+                }
+
+                label {
+                    display: flex;
+                    margin-top: 0.6rem;
+
+                    input {
+                        background-color: #F2F2F2;
+                        border: none;
+                        width: 430px;
+                        margin-left: 1rem;
+                    }
+                }
+
+            }
+        }
+    }
+
+    .navbar {
+        border-bottom: 1px solid #2DD06E;
+
+        .nav-links {
+            margin: 2rem 1rem;
+
+            a {
+                text-decoration: none;
+                color: #4F4F4F;
+                padding-left: 50px;
+                font-size: 14px;
+            }
+        }
+    }
+}

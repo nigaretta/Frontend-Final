@@ -1,0 +1,61 @@
+footer {
+  background-color: #262626;
+}
+footer hr {
+  border: 1px solid rgb(57, 57, 57);
+}
+footer .footer {
+  padding: 2rem 4rem;
+  display: flex;
+  justify-content: space-between;
+}
+footer .footer .logo-icon img {
+  width: 90px;
+}
+footer .footer .logo-icon .icon {
+  color: white;
+}
+footer .footer .logo-icon .icon .social-icon {
+  margin-top: 0.7rem;
+  margin-left: 17px;
+}
+footer .footer .menu .righticon, footer .footer .contact .righticon {
+  color: white;
+}
+footer .footer .menu span, footer .footer .contact span {
+  color: #2DD06E;
+}
+footer .footer .menu p, footer .footer .contact p {
+  color: white;
+}
+footer .footer .menu a, footer .footer .contact a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-size: 13px;
+}
+footer .footer .menu a {
+  padding-top: 1.2rem;
+}
+footer .footer .contact .right {
+  display: flex;
+  margin-top: 1.2rem;
+}
+footer .footer .contact .right a {
+  padding-left: 0.6rem;
+}
+footer .last-part {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 4rem;
+}
+footer .last-part p {
+  color: #fff;
+  font-size: 14px;
+}
+footer .last-part .right {
+  display: flex;
+}
+footer .last-part .right p {
+  padding-left: 30px;
+}/*# sourceMappingURL=footer.css.map */
